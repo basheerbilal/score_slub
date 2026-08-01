@@ -1,0 +1,6 @@
+{
+  "name": "Soccer Club Hub",
+  "description": "An elite official portal for Elysian FC, featuring dynamic matches schedules, live roster galleries, real-time statistics hub, interactive soccer laws engine, merchandise store, and fan feedback portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
